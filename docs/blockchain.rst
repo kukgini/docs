@@ -16,7 +16,7 @@ Blochchain
 ---------------
 Video
 ---------------
-* `Byzantine Attacks/Fault Tolerance In a Nutshell` <https://www.youtube.com/watch?v=jLpBqN9D0S8>`_
+* `Byzantine Attacks/Fault Tolerance In a Nutshell <https://www.youtube.com/watch?v=jLpBqN9D0S8>`_
 * `L6: Byzantine Fault Tolerance <https://www.youtube.com/watch?v=_e4wNoTV3Gw>`_
 * `Bitcoin and Byzantine Generals | Programmer explains <https://www.youtube.com/watch?v=kE51N84hBxU>`_
 
