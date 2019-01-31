@@ -11,7 +11,7 @@ Blochchain
 ---------------
  Papers / Theorems
 ---------------
-* `The Byzantine Generals Problem <https://people.eecs.berkeley.edu/~luca/cs174/byzantine.pdf`_
+* `The Byzantine Generals Problem <https://people.eecs.berkeley.edu/~luca/cs174/byzantine.pdf>`_
 
 ---------------
 Video
