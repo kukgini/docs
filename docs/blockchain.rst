@@ -21,11 +21,17 @@ Video
 * `Bitcoin and Byzantine Generals | Programmer explains <https://www.youtube.com/watch?v=kE51N84hBxU>`_
 
 ---------------
+Performance of blockchain solution
+---------------
+* `Hyperledger Performance and Scale Working Group <https://wiki.hyperledger.org/display/PSWG>`_
+
+---------------
 Other Links
 ---------------
 * `쉽게 이해하는 블록체인: 비트코인 블록체인이란 무엇인가? <https://banksalad.com/contents/쉽게-이해하는-블록체인-비트코인-블록체인이란-무엇인가-0vLh5>`_
 * `가상화폐 기반인 블록체인 기술 연구개발의 시스템 응용과 이슈, 엄현상 서울대 컴퓨터공학부 교수 <http://mysnu.org/m/community/newtechnology.php?search_order=&search_part=&c_cate1=&mode=v&idx=11700&thisPageNum=>`_
 * `블록체인의 기술적 구성 요소, 장우진 서울대 산업공학과 교수 <http://mysnu.org/m/community/newtechnology.php?search_order=&search_part=&c_cate1=&mode=v&idx=11699&thisPageNum=>`_
+
 
 ---------------
 Terms / Glossary
