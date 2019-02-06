@@ -12,6 +12,7 @@ Blochchain
  Papers / Theorems
 ---------------
 * `The Byzantine Generals Problem <https://people.eecs.berkeley.edu/~luca/cs174/byzantine.pdf>`_
+* `Visualizing Dynamic Bitcoin Transaction Patterns <https://www.liebertpub.com/doi/full/10.1089/big.2015.0056>`_
 
 ---------------
 Video
