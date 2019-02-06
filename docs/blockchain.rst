@@ -28,6 +28,7 @@ Performance of blockchain solution
 ---------------
 Other Links
 ---------------
+* `쉽게 이해하는 블록체인: 비트코인 블록체인이란 무엇인가? <https://banksalad.com/contents/%EC%89%BD%EA%B2%8C-%EC%9D%B4%ED%95%B4%ED%95%98%EB%8A%94-%EB%B8%94%EB%A1%9D%EC%B2%B4%EC%9D%B8-%EB%B9%84%ED%8A%B8%EC%BD%94%EC%9D%B8-%EB%B8%94%EB%A1%9D%EC%B2%B4%EC%9D%B8%EC%9D%B4%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80-0vLh5>`_
 * `가상화폐 기반인 블록체인 기술 연구개발의 시스템 응용과 이슈, 엄현상 서울대 컴퓨터공학부 교수 <http://mysnu.org/m/community/newtechnology.php?search_order=&search_part=&c_cate1=&mode=v&idx=11700&thisPageNum=>`_
 * `블록체인의 기술적 구성 요소, 장우진 서울대 산업공학과 교수 <http://mysnu.org/m/community/newtechnology.php?search_order=&search_part=&c_cate1=&mode=v&idx=11699&thisPageNum=>`_
 
