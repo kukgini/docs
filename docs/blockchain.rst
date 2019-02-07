@@ -25,7 +25,8 @@ Video
 Performance of blockchain solution
 ---------------
 * `Hyperledger Performance and Scale Working Group <https://wiki.hyperledger.org/display/PSWG>`_
-* `BLOCKBENCH: A Framework for Analyzing Private Blockchains <https://arxiv.org/pdf/1703.04057v1.pdf>`_ PDF
+* `BLOCKBENCH: A Framework for Analyzing Private Blockchains <https://arxiv.org/pdf/1703.04057v1.pdf>`_
+
   * `BLOCKBENCH repository <https://github.com/ooibc88/blockbench>`_
 
 ---------------
