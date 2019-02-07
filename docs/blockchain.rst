@@ -26,6 +26,7 @@ Performance of blockchain solution
 ---------------
 * `Hyperledger Performance and Scale Working Group <https://wiki.hyperledger.org/display/PSWG>`_
 * `BLOCKBENCH: A Framework for Analyzing Private Blockchains <https://www.comp.nus.edu.sg/~dbsystem/blockbench/>`_ [`Paper <https://arxiv.org/pdf/1703.04057v1.pdf>`_][`Repository <https://github.com/ooibc88/blockbench>`_]
+  * `Performance Evaluation of the Quorum Blockchain Platform <https://arxiv.org/pdf/1809.03421.pdf>`_
 
 ---------------
 Other Links
