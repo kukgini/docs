@@ -29,6 +29,7 @@ Performance of blockchain solution
 
   * `Performance Evaluation of the Quorum Blockchain Platform <https://arxiv.org/pdf/1809.03421.pdf>`_
   
+* `Performance Modeling of Hyperledger Fabric (Permissioned Blockchain Network) <https://sites.duke.edu/hvs2/files/2018/11/perf_model_HLF_Harish_18.pdf>`_
 * `Performance Benchmarking and Optimizing Hyperledger Fabric Blockchain Platform <https://arxiv.org/pdf/1805.11390.pdf>`_
 
 ---------------
