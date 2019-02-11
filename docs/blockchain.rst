@@ -22,7 +22,7 @@ Video
 * `Bitcoin and Byzantine Generals | Programmer explains <https://www.youtube.com/watch?v=kE51N84hBxU>`_
 
 ---------------
-Performance of blockchain solution
+Performance Benchmark
 ---------------
 * `Hyperledger Performance and Scale Working Group <https://wiki.hyperledger.org/display/PSWG>`_
 * `BLOCKBENCH: A Framework for Analyzing Private Blockchains <https://www.comp.nus.edu.sg/~dbsystem/blockbench/>`_ [`Paper <https://arxiv.org/pdf/1703.04057v1.pdf>`_][`Repository <https://github.com/ooibc88/blockbench>`_]
@@ -32,6 +32,10 @@ Performance of blockchain solution
 * `Performance Modeling of Hyperledger Fabric (Permissioned Blockchain Network) <https://sites.duke.edu/hvs2/files/2018/11/perf_model_HLF_Harish_18.pdf>`_
 * `Performance Benchmarking and Optimizing Hyperledger Fabric Blockchain Platform <https://arxiv.org/pdf/1805.11390.pdf>`_
 
+---------------
+Interoperability
+---------------
+* `InterChain: A Framework to Support Blockchain Interoperability <https://pdfs.semanticscholar.org/3aef/c6bc23392f762cb3635ceee5eea74ed5e5c6.pdf>`_
 ---------------
 Other Links
 ---------------
