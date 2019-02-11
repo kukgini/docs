@@ -33,9 +33,15 @@ Performance Benchmark
 * `Performance Benchmarking and Optimizing Hyperledger Fabric Blockchain Platform <https://arxiv.org/pdf/1805.11390.pdf>`_
 
 ---------------
+Scalability
+---------------
+* `A Survey of Scalability Solutions on Blockchain <https://ieeexplore.ieee.org/abstract/document/8539529>`_
+
+---------------
 Interoperability
 ---------------
 * `InterChain: A Framework to Support Blockchain Interoperability <https://pdfs.semanticscholar.org/3aef/c6bc23392f762cb3635ceee5eea74ed5e5c6.pdf>`_
+* `A Multiple Blockchains Architecture on Inter-Blockchain Communication <https://ieeexplore.ieee.org/abstract/document/8431965>`_
 ---------------
 Other Links
 ---------------
